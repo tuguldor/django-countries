@@ -51,7 +51,7 @@ msgstr "Молдав"
 
 #: base.py:19
 msgid "Russia"
-msgstr "Орос"
+msgstr "Оросын Холбооны Улс"
 
 #: base.py:20
 msgid "Syria"
@@ -71,7 +71,7 @@ msgstr "Венесуэл"
 
 #: base.py:24
 msgid "Vietnam"
-msgstr "Вьетнам"
+msgstr "Бүгд Найрамдах Социалист Вьетнам Улс"
 
 #: base.py:28
 msgid "Czech Republic"
@@ -83,7 +83,7 @@ msgstr "Мадагаскар"
 
 #: base.py:29
 msgid "Macedonia (the former Yugoslav Republic of)"
-msgstr "Македони (хуучин Югославын Бүгд Найрамдах Улс)"
+msgstr "Македони"
 
 #: base.py:30
 msgid "Swaziland"
@@ -91,7 +91,7 @@ msgstr "Свазиленд улс"
 
 #: base.py:31 data.py:251
 msgid "Tanzania, the United Republic of"
-msgstr "Танзани, Нэгдсэн Улс"
+msgstr "Танзани"
 
 #: base.py:32
 msgid "Falkland Islands  [Malvinas]"
@@ -431,7 +431,7 @@ msgstr "Жоржиа"
 
 #: data.py:115
 msgid "Germany"
-msgstr "Герман"
+msgstr "Холбооны Бүгд Найрамдах Герман Улс"
 
 #: data.py:116
 msgid "Ghana"
@@ -519,7 +519,7 @@ msgstr "Индонез"
 
 #: data.py:137
 msgid "Iran (Islamic Republic of)"
-msgstr "Иран (Исламын улс)"
+msgstr "Исламын Бүгд Найрамдах Иран Улс"
 
 #: data.py:138
 msgid "Iraq"
@@ -527,7 +527,7 @@ msgstr "Ирак"
 
 #: data.py:139
 msgid "Ireland"
-msgstr "Ирландия"
+msgstr "Ирланд"
 
 #: data.py:140
 msgid "Isle of Man"
@@ -555,7 +555,7 @@ msgstr "Жерси"
 
 #: data.py:146
 msgid "Jordan"
-msgstr "Йордан"
+msgstr "Йорданы Хашимитын Хаант Улс"
 
 #: data.py:147
 msgid "Kazakhstan"
@@ -571,11 +571,11 @@ msgstr "Кирибати"
 
 #: data.py:150
 msgid "Korea (the Democratic People's Republic of)"
-msgstr "Хойд Солонгос"
+msgstr "Бүгд Найрамдах Ардчилсан Солонгос Ард Улс"
 
 #: data.py:151
 msgid "Korea (the Republic of)"
-msgstr "Өмнөд Солонгос"
+msgstr "Бүгд Найрамдах Солонгос Улс"
 
 #: data.py:152
 msgid "Kuwait"
@@ -583,15 +583,15 @@ msgstr "Кувейт"
 
 #: data.py:153
 msgid "Kyrgyzstan"
-msgstr "Кыргызстан"
+msgstr "Бүгд Найрамдах Киргиз Улс"
 
 #: data.py:154
 msgid "Lao People's Democratic Republic"
-msgstr "Лаос Ардчилсан Бүгд Найрамдах Улс"
+msgstr "Бүгд Найрамдах Ардчилсан Лаос Ард Улс"
 
 #: data.py:155
 msgid "Latvia"
-msgstr "Латви"
+msgstr "Бүгд Найрамдах Латви Улс"
 
 #: data.py:156
 msgid "Lebanon"
@@ -611,7 +611,7 @@ msgstr "Ливи"
 
 #: data.py:160
 msgid "Liechtenstein"
-msgstr "Лихтенштейн"
+msgstr "Лихтенштайны Хаант Улс "
 
 #: data.py:161
 msgid "Lithuania"
@@ -619,7 +619,7 @@ msgstr "Литва"
 
 #: data.py:162
 msgid "Luxembourg"
-msgstr "Люксембург"
+msgstr "Люксембургийн Их Херцогт Улс"
 
 #: data.py:163
 msgid "Macao"
@@ -879,7 +879,7 @@ msgstr "Сан-Томе ба Принсипи"
 
 #: data.py:227
 msgid "Saudi Arabia"
-msgstr "Саудын Араб"
+msgstr "Саудын Арабын Вант Улс"
 
 #: data.py:228
 msgid "Senegal"
@@ -963,7 +963,7 @@ msgstr "Швейцари"
 
 #: data.py:248
 msgid "Syrian Arab Republic"
-msgstr "Сирийн Арабын бүгд найрамдах улс"
+msgstr "Сирийн Арабын Бүгд Найрамдах Улс"
 
 #: data.py:249
 msgid "Taiwan (Province of China)"
@@ -1003,7 +1003,7 @@ msgstr "Тунис"
 
 #: data.py:259
 msgid "Turkey"
-msgstr "Турк"
+msgstr "Бүгд Найрамдах Турк Улс"
 
 #: data.py:260
 msgid "Turkmenistan"
@@ -1027,7 +1027,7 @@ msgstr "Украин"
 
 #: data.py:265
 msgid "United Arab Emirates"
-msgstr "Арабын Нэгдсэн Эмират"
+msgstr "Арабын Нэгдсэн Эмират Улс"
 
 #: data.py:266
 msgid "United Kingdom of Great Britain and Northern Ireland"
@@ -1047,7 +1047,7 @@ msgstr "Уругвай"
 
 #: data.py:270
 msgid "Uzbekistan"
-msgstr "Узбекистан"
+msgstr "Бүгд Найрамдах Узбекистан Улс"
 
 #: data.py:271
 msgid "Vanuatu"
@@ -1059,7 +1059,7 @@ msgstr "Венесуэл (Боливийн Бүгд Найрамдах улс)"
 
 #: data.py:273
 msgid "Viet Nam"
-msgstr "Вьетнам улс"
+msgstr "Бүгд Найрамдах Социалист Вьетнам Улс"
 
 #: data.py:274
 msgid "Virgin Islands (British)"
